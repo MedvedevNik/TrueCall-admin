@@ -1,0 +1,32 @@
+{
+  "name": "learn_vue",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.15",
+    "@babel/preset-env": "^7.13.15",
+    "babelify": "^10.0.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pengu1nik/TrueCall.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pengu1nik/TrueCall/issues"
+  },
+  "homepage": "https://github.com/Pengu1nik/TrueCall#readme",
+  "description": ""
+}
